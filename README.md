@@ -5,7 +5,7 @@
  
 Hello! My name is Peter Chidlow and in some comunities im known as Chids you can refer to me as either I don't mind. I hail from the UK as a gaming enthuiast and picked up some coding skills in my own time by experimenting and online videos. Along side my coding I also have picked up 3d modeling skills in blender. With my current skills and the skills I hope to develop, my true aim is to make my own games and maybe one day lead a team of developers in making games to bring others the happieness that games have brought me since I was little.
 
-<img src = "https://github.com/ChidsX/ChidsX.github.io/blob/main/Pic%20of%20VRC%20model.jpg" alt"Vrc image">
+<img src = "https://github.com/ChidsX/ChidsX.github.io/blob/main/Pic%20of%20VRC%20model.jpg" alt"Vrc image"/>
  
 ## 🎓 Education
  
